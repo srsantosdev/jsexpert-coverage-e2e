@@ -1,0 +1,1 @@
+{"processes":{"a1e980a9-f847-4776-9832-5343bb7da7a2":{"parent":null,"children":["c3f50b86-cc3d-485b-bc6b-62ce7bbcbc84"]},"c3f50b86-cc3d-485b-bc6b-62ce7bbcbc84":{"parent":"a1e980a9-f847-4776-9832-5343bb7da7a2","children":[]}},"files":{"/Users/vm/www/study/jsexpert-coverage-e2e/src/api.js":["c3f50b86-cc3d-485b-bc6b-62ce7bbcbc84"]},"externalIds":{}}
